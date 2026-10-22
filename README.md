@@ -1,6 +1,6 @@
 # HR Analytics: Predict Employee Promotion
 
-Este proyecto forma parte del trabajo final de **Data & Analytics** elaborado por **Ana Lucía Palacios De La Borda**. Consiste en el desarrollo de un modelo de Machine Learning diseñado para predecir si un empleado será promovido o no dentro de la empresa, utilizando el conjunto de datos de la **WNS Analytics Hackathon 2018** (Analytics Vidhya).
+Este proyecto forma parte del trabajo final de **Data & Analytics** elaborado por **Ana Lucía Palacios De La Borda**, finalmente completada por estudiantes del Grupo de Analytics. Consiste en el desarrollo de un modelo de Machine Learning diseñado para predecir si un empleado será promovido o no dentro de la empresa, utilizando el conjunto de datos de la **WNS Analytics Hackathon 2018** (Analytics Vidhya).
 
 ## 📌 Contexto del Problema
 La identificación eficiente de candidatos para ascensos permite a las empresas reducir el sesgo en las promociones y agilizar los procesos de evaluación de talento mediante un enfoque basado en datos (*Data-Driven HR*).
